@@ -12,9 +12,11 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.AndroidBasics"
         tools:targetApi="31">
-
         <activity
             android:name=".Counter"
+            android:exported="false" />
+        <activity
+            android:name=".Calculator"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

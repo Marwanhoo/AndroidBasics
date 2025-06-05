@@ -6,4 +6,7 @@
     <string name="enter_your_password">Enter Your Password</string>
     <string name="upload_data">Upload Data</string>
     <string name="counter_app">Counter App</string>
+    <string name="enter_first_number">Enter first number</string>
+    <string name="enter_second_number">Enter Second Number</string>
+    <string name="dummy_text">Dummy Text</string>
 </resources>
