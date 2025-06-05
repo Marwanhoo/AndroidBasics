@@ -5,4 +5,5 @@
     <string name="enter_your_country">Enter Your Country</string>
     <string name="enter_your_password">Enter Your Password</string>
     <string name="upload_data">Upload Data</string>
+    <string name="counter_app">Counter App</string>
 </resources>
