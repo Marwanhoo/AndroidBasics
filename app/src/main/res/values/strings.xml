@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidBasics</string>
+    <string name="first_name">First Name</string>
+    <string name="enter_your_birth_date">Enter Your Birth Date</string>
+    <string name="enter_your_country">Enter Your Country</string>
+    <string name="enter_your_password">Enter Your Password</string>
+    <string name="upload_data">Upload Data</string>
+</resources>
